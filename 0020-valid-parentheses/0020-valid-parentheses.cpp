@@ -3,16 +3,16 @@ public:
     bool isValid(string s) {
         stack<char> st;
 
-        for (char c : s) {
-            if (c == '(' || c == '{' || c == '[') {
-                st.push(c);
+        for (char ch : s) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                st.push(ch);
             }
             else {
                 if (st.empty()) return false;
 
-                if (c == ')' && st.top() != '(') return false;
-                if (c == '}' && st.top() != '{') return false;
-                if (c == ']' && st.top() != '[') return false;
+                if (ch == ')' && st.top() != '(') return false;
+                if (ch == '}' && st.top() != '{') return false;
+                if (ch == ']' && st.top() != '[') return false;
 
                 st.pop();
             }
