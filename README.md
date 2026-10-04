@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Matrix
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
