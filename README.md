@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
