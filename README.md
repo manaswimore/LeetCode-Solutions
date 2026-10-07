@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0853-car-fleet](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## String
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0853-car-fleet) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -174,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
