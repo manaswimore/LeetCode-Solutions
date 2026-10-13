@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
