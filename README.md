@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sweep Line
 |  |
