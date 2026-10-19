@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manaswimore/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manaswimore/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
