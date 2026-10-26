@@ -9,37 +9,43 @@
  * };
  */
  
+
 class Solution {
 public:
     void reorderList(ListNode* head) {
         if (head == nullptr || head->next == nullptr)
             return;
 
-        // Step 1: Find the middle
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        while (fast->next != nullptr &&
-               fast->next->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        // Step 2: Reverse the second half
-        ListNode* prev = nullptr;
-        ListNode* curr = slow->next;
-        slow->next = nullptr;
+        // Step 1: Find length
+        int n = 0;
+        ListNode* curr = head;
 
         while (curr != nullptr) {
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
+            n++;
+            curr = curr->next;
         }
 
-        // Step 3: Merge the two halves
+        // Step 2: Find the end of the first half
+        curr = head;
+        for (int i = 1; i < (n + 1) / 2; i++) {
+            curr = curr->next;
+        }
+
+        // Step 3: Reverse the second half
+        ListNode* prev = nullptr;
+        ListNode* second = curr->next;
+        curr->next = nullptr;
+
+        while (second != nullptr) {
+            ListNode* nextNode = second->next;
+            second->next = prev;
+            prev = second;
+            second = nextNode;
+        }
+
+        // Step 4: Merge both halves
         ListNode* first = head;
-        ListNode* second = prev;
+        second = prev;
 
         while (second != nullptr) {
             ListNode* nextFirst = first->next;
