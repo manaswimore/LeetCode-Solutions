@@ -20,43 +20,29 @@ public:
     Node* copyRandomList(Node* head) {
         if (head == nullptr) return nullptr;
 
+        unordered_map<Node*, Node*> mp;
         Node* curr = head;
 
-        // Step 1: Insert copied nodes after originals
+        // Step 1: Create a copy of every node
         while (curr != nullptr) {
-            Node* copy = new Node(curr->val);
-            copy->next = curr->next;
-            curr->next = copy;
-            curr = copy->next;
+            mp[curr] = new Node(curr->val);
+            curr = curr->next;
         }
 
-        // Step 2: Assign random pointers
+        // Step 2: Connect next and random pointers
         curr = head;
 
         while (curr != nullptr) {
-            if (curr->random != nullptr) {
-                curr->next->random = curr->random->next;
-            }
+            mp[curr]->next = (curr->next != nullptr)
+                                ? mp[curr->next] : nullptr;
 
-            curr = curr->next->next;
-        }
-
-        // Step 3: Separate original and copied lists
-        curr = head;
-        Node* copyHead = head->next;
-
-        while (curr != nullptr) {
-            Node* copy = curr->next;
-
-            curr->next = copy->next;
-
-            if (copy->next != nullptr) {
-                copy->next = copy->next->next;
-            }
+            mp[curr]->random = (curr->random != nullptr)
+                                  ? mp[curr->random] : nullptr;
 
             curr = curr->next;
         }
 
-        return copyHead;
+        return mp[head];
     }
 };
+
