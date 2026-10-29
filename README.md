@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manaswimore/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manaswimore/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
